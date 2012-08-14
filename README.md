@@ -6,9 +6,11 @@ Clone of yii framework to be used as a submodule dependency
 Usage
 =============
 
-`git submodule add git://github.com/alari/yii-framework.git framework`
-`cd framework`
-`./yiic webapp ..`
+```
+git submodule add git://github.com/alari/yii-framework.git framework
+cd framework
+./yiic webapp ..
+```
 
 Sometimes: `git submodule update`
 
